@@ -286,7 +286,7 @@ Sadece build listesindeki sahneler yüklenebilir. **Window > Atthree > Scenes** 
 
 ### 3. Kendi menü butonların (kodsuz)
 
-1. Kendi UI **Button**.larından birini seç (örn. "Oyna") → **Add Component** → **Scene Load Button**.
+1. Kendi UI **Button**'larından birini seç (örn. "Oyna") → **Add Component** → **Scene Load Button**.
 2. **Action**: *Load Scene*. Bölüm sahneni **Scene** alanına sürükle.
 3. Play'e bas ve tıkla. Bu kadar: butonun kendi OnClick listesine bir şey eklemene gerek yok.
 
