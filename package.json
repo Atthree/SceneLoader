@@ -1,0 +1,14 @@
+{
+  "name": "com.atthree.scene-loader",
+  "version": "0.1.0",
+  "displayName": "Scene Loader",
+  "description": "Scene loading for Unity 6: fade transitions, loading screen with progress, scene references you can drag in the Inspector, scene groups, persistent objects and a scene switcher window.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Atthree",
+    "url": "https://github.com/Atthree"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {}
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Atthree.SceneLoading",
+    "rootNamespace": "Atthree.SceneLoading",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
