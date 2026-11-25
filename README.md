@@ -414,3 +414,8 @@ Kendi geçişin için: `SceneTransition`'dan türet, `Cover` ve `Reveal`'ı yaz,
 ## Lisans
 
 [MIT](LICENSE.md)
+
+---
+
+🤖 *This project was developed with the help of AI tools.*  
+🤖 *Bu proje yapay zekâ araçlarının yardımıyla geliştirilmiştir.*
