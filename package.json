@@ -9,6 +9,34 @@
     "url": "https://github.com/Atthree"
   },
   "license": "MIT",
-  "keywords": [],
-  "dependencies": {}
+  "keywords": [
+    "unity",
+    "unity3d",
+    "unity6",
+    "upm",
+    "upm-package",
+    "unity-package",
+    "gamedev",
+    "csharp",
+    "scene-management",
+    "scene-loader",
+    "scene-loading",
+    "loading-screen",
+    "scene-transition",
+    "fade",
+    "async-loading",
+    "additive-scenes",
+    "dontdestroyonload",
+    "editor-tools"
+  ],
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Three scenes: a menu that loads a level three ways (fade, loading screen, press any key), two levels with next/restart/menu buttons, and a persistent object that survives every scene change.",
+      "path": "Samples~/Demo"
+    }
+  ]
 }

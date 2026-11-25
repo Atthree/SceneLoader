@@ -1,7 +1,10 @@
 {
     "name": "Atthree.SceneLoading",
     "rootNamespace": "Atthree.SceneLoading",
-    "references": [],
+    "references": [
+        "UnityEngine.UI",
+        "Unity.InputSystem"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -9,6 +12,12 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "1.0.0",
+            "define": "ATTHREE_INPUT_SYSTEM"
+        }
+    ],
     "noEngineReferences": false
 }

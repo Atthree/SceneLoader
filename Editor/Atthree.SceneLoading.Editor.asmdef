@@ -1,6 +1,6 @@
 {
     "name": "Atthree.SceneLoading.Editor",
-    "rootNamespace": "Atthree.SceneLoading.Editor",
+    "rootNamespace": "Atthree.SceneLoading",
     "references": [
         "Atthree.SceneLoading"
     ],
